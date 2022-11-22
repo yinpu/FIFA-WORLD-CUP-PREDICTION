@@ -87,11 +87,11 @@ Here are the predicted results
 
 1. 从上述链接下载数据集并解压,把results.csv放到./data中
 
-1. ```sh
+2. ```sh
    python preprocess.py
    ```
 
-2. ```sh
+3. ```sh
    python main.py
    ```
 
