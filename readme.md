@@ -1,4 +1,4 @@
-## 2022 FIFA WORLD CUP PREDOCTION 
+## 2022 FIFA WORLD CUP PREDICTION 
 
 Using pytorch to build a neural network to predict the 2022 World Cup
 
